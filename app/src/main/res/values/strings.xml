@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Quiz Game</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="mm_dd_yyyy" tools:keep="@string/mm_dd_yyyy">MM/DD/YYYY</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="user_name_m">Username</string>
+    <string name="password_m">Password</string>
+    <string name="new_registration_click_here">New Registration: Click Here</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO2</string>
+    <string name="good_luck_and_have_fun">Good luck and have fun!</string>
+    <string name="you_cannot_go_back_to_a_previous_question_so_choose_wisely">You cannot go back to a previous question so choose wisely!</string>
+    <string name="you_will_have_to_answer_one_question_before_going_onto_the_next">You will have to answer one question before going onto the next.</string>
+    <string name="there_will_be_5_questions_appearing_soon">There will be 5 questions appearing soon.</string>
+    <string name="next_question">Next Question</string>
+    <string name="what_returns_a_true_or_false">What returns a True or False?</string>
+    <string name="question_1">Question 1</string>
+    <string name="which_of_the_following_are_part_of_the_5_senses">Which of the following are part of the 5 senses?</string>
+    <string name="smell">Smell</string>
+    <string name="height">Height</string>
+    <string name="touch">Touch</string>
+    <string name="taste">Taste</string>
+    <string name="sight">Sight</string>
+    <string name="welcome">Welcome!</string>
+    <string name="mars">Mars</string>
+    <string name="neptune">Neptune</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="what_is_the_largest_planet_in_our_solar_system">What is the largest planet in our solar system?</string>
+    <string name="saturn">Saturn</string>
+    <string name="question_3">Question 3</string>
+    <string name="correct">Correct</string>
+</resources>
